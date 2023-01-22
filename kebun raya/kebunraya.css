@@ -1,0 +1,82 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'Poppins', sans-serif;
+}
+:root {
+    --primary:#068091;
+    --secondary:#fe8800;
+    --light: #eaeaee;
+    --dark:#1d1d1d;
+}
+
+.carousel-slide{
+    background-color: #ffffff;
+}
+
+.content{
+    border: #f8f9fa;
+    padding-left: 2rem;
+}
+
+.h5{
+    padding-left: 3rem;
+}
+
+.konten-kedua{
+    padding-left: 0rem;
+}
+
+.deskripsi{
+    padding-left: 1rem;
+}
+.yy{
+    padding-left: 0rem;
+}
+.judul{
+    padding-left: 0rem;
+}
+
+.gambar{
+    padding-top: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.gambar1{
+    padding-top: 1rem;
+    padding-left: 2rem;
+    padding-right: 3rem;
+}
+.maps{
+    padding-left: 2rm;
+}
+
+.card-group{
+    padding-bottom: 2rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+/* contact */
+.contact {
+    background-image: url("laut.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    padding-top: 2rem;
+  }
+  
+  .contact input {
+    height: 4rem;
+    margin-bottom: 2rem;
+  }
+
+/* footer */
+.container-footer {
+  width: 100%;
+  left:0;
+  right:0;
+}
